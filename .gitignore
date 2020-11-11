@@ -1,0 +1,8 @@
+# environmental variables
+.env
+
+# dependencies
+node_modules
+
+# exercism metadata
+.exercism
